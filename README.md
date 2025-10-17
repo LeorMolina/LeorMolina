@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Leo Molina
 
-**`QA Engineer | Cypress , Postman, Web Automation, Scrum, Agile`**
+**`QA Engineer | Cypress, Postman, Web Automation, Scrum, Agile`**
 
 Atualmente curso Análise e Desenvolvimento de Sistemas, área pela qual tenho grande interesse e dedicação. Meu foco está em Quality Assurance (QA), unindo curiosidade por tecnologia e desejo de garantir excelência em produtos digitais.
 
