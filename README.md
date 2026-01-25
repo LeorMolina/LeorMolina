@@ -2,11 +2,11 @@
 
 **`QA Engineer | Cypress, Postman, Web Automation, Scrum, Agile`**
 
-Atualmente curso Análise e Desenvolvimento de Sistemas, área pela qual tenho grande interesse e dedicação. Meu foco está em Quality Assurance (QA), unindo curiosidade por tecnologia e desejo de garantir excelência em produtos digitais.
+Atualmente curso Análise e Desenvolvimento de Sistemas, área onde aplico minha base estratégica de negócio para desenvolver soluções tecnológicas de alto impacto. Meu diferencial reside na convergência entre o desenvolvimento de software robusto e a otimização de processos através de IA Generativa (Gems), criando assistentes personalizados para acelerar o ciclo de vida do desenvolvimento.
 
-Tenho experiência prática com Cypress, Postman, testes de API, software testing e metodologias ágeis como Scrum, além de estar constantemente aprimorando minhas habilidades em testes automatizados e funcionais. Nessas experiências, desenvolvi competências técnicas e também habilidades interpessoais como trabalho em equipe, comunicação e resolução de problemas, fundamentais para atuar em ambientes colaborativos e dinâmicos.
+Possuo domínio técnico em linguagens como C#, Java, Python e JavaScript, além de vasta experiência em manipulação de dados com SQL e Power BI. Domino ferramentas de automação e qualidade como Cypress e Postman, integradas a metodologias ágeis (Scrum). Utilizo o Google Gemini de forma avançada para refatoração de código, engenharia de prompts e automação de tarefas complexas, garantindo alta performance e confiabilidade nas entregas.
 
-Meu objetivo é consolidar minha carreira como QA Engineer, contribuindo para a qualidade de sistemas e aplicações que gerem impacto real para usuários e empresas. Busco continuamente aprender, evoluir e aplicar boas práticas que elevem a confiabilidade e a performance dos projetos em que participo..
+Meu objetivo é atuar como Desenvolvedor / Analista de Sistemas, aplicando inteligência artificial e boas práticas de engenharia para elevar o patamar técnico dos projetos, unindo visão analítica, comunicação colaborativa e resolução eficiente de problemas.
 
 <p align="left">
     <!-- LinkedIn -->
