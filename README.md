@@ -39,10 +39,3 @@ Meu objetivo é atuar como Desenvolvedor / Analista de Sistemas, aplicando intel
 </div>
 
 <br/>
-
-### 📊 Estatísticas
-
-<div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeorMolina&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeorMolina&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
-</div>
