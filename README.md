@@ -9,7 +9,6 @@ Possuo domínio técnico em linguagens como C#, Java, Python e JavaScript, além
 Meu objetivo é atuar como Desenvolvedor / Analista de Sistemas, aplicando inteligência artificial e boas práticas de engenharia para elevar o patamar técnico dos projetos, unindo visão analítica, comunicação colaborativa e resolução eficiente de problemas.
 
 <p align="left">
-    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/leonardo-molina-r/" target="_blank">
         <img 
             alt="LinkedIn profile" 
@@ -24,82 +23,26 @@ Meu objetivo é atuar como Desenvolvedor / Analista de Sistemas, aplicando intel
             src="https://custom-icon-badges.demolab.com/github/stars/Leormolina?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" 
         />
     </a>
-    <!-- GitHub Seguidores -->
- 
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias (em estudo)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<br/>
+<div align="left">
+    <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img align="center" alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
 
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Leormolina&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" ]
-  />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leormolina&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-
+<div align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeorMolina&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeorMolina&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
+</div>
