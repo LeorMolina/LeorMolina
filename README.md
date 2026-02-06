@@ -1,12 +1,24 @@
-# 👨🏻‍💻 Leo Molina
+👨🏻‍💻 Leo Molina
+Full Stack Developer | QA Automation Engineer | AI Implementation Specialist
 
-**`QA Engineer | Cypress, Postman, Web Automation, Scrum, Agile`**
+🎯 Sobre Mim
+Sou um desenvolvedor focado na construção de ecossistemas digitais eficientes e escaláveis. Minha abordagem une a precisão da Garantia de Qualidade (QA) com a visão holística do Desenvolvimento Full Stack. Atualmente, curso Análise e Desenvolvimento de Sistemas, onde projeto soluções que convergem código robusto e inteligência artificial generativa.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas, área onde aplico minha base estratégica de negócio para desenvolver soluções tecnológicas de alto impacto. Meu diferencial reside na convergência entre o desenvolvimento de software robusto e a otimização de processos através de IA Generativa (Gems), criando assistentes personalizados para acelerar o ciclo de vida do desenvolvimento.
+Diferente da abordagem convencional, utilizo o Google Gemini e Engenharia de Prompts avançada não apenas como suporte, mas como parte integrante do ciclo de vida de software (SDLC) desde a arquitetura de prompts para automação até a refatoração de sistemas complexos.
 
-Possuo domínio técnico em linguagens como C#, Java, Python e JavaScript, além de vasta experiência em manipulação de dados com SQL e Power BI. Domino ferramentas de automação e qualidade como Cypress e Postman, integradas a metodologias ágeis (Scrum). Utilizo o Google Gemini de forma avançada para refatoração de código, engenharia de prompts e automação de tarefas complexas, garantindo alta performance e confiabilidade nas entregas.
+🛠️ Stack Tecnológica & Ferramentas
+Linguagens: Domínio em JavaScript (Node.js), C#, Java e Python.
 
-Meu objetivo é atuar como Desenvolvedor / Analista de Sistemas, aplicando inteligência artificial e boas práticas de engenharia para elevar o patamar técnico dos projetos, unindo visão analítica, comunicação colaborativa e resolução eficiente de problemas.
+Frontend & Backend: Desenvolvimento de aplicações ponta a ponta com foco em performance.
+
+Qualidade & Testes: Especialista em automação com Cypress, Postman e frameworks modernos.
+
+Dados & BI: Manipulação avançada de dados com SQL e visualização estratégica via Power BI.
+
+Agile & AI: Implementação de metodologias ágeis (Scrum) integradas a assistentes de IA personalizados (Gems) para aceleração de sprints.
+
+⚡ Diferenciais Críticos
+Não busco apenas escrever código, mas solucionar problemas de negócio através da tecnologia. Minha experiência inclui desde a manutenção de sistemas legados (Windows 10/11 compatibility) até a criação de identidades de marca e arquitetura de marcas autorais. Atuo com visão crítica: avalio falhas, aponto melhorias e não aceito o "padrão" sem antes otimizá-lo.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/leonardo-molina-r/" target="_blank">
