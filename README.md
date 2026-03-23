@@ -1,53 +1,72 @@
-👨🏻‍💻 Leo Molina
-Full Stack Developer | QA Automation Engineer | AI Implementation Specialist
-
-🎯 Sobre Mim
-Sou um desenvolvedor focado na construção de ecossistemas digitais eficientes e escaláveis. Minha abordagem une a precisão da Garantia de Qualidade (QA) com a visão holística do Desenvolvimento Full Stack. Atualmente, curso Análise e Desenvolvimento de Sistemas, onde projeto soluções que convergem código robusto e inteligência artificial generativa.
-
-Diferente da abordagem convencional, utilizo o Google Gemini e Engenharia de Prompts avançada não apenas como suporte, mas como parte integrante do ciclo de vida de software (SDLC) desde a arquitetura de prompts para automação até a refatoração de sistemas complexos.
-
-🛠️ Stack Tecnológica & Ferramentas
-Linguagens: Domínio em JavaScript (Node.js), C#, Java e Python.
-
-Frontend & Backend: Desenvolvimento de aplicações ponta a ponta com foco em performance.
-
-Qualidade & Testes: Especialista em automação com Cypress, Postman e frameworks modernos.
-
-Dados & BI: Manipulação avançada de dados com SQL e visualização estratégica via Power BI.
-
-Agile & AI: Implementação de metodologias ágeis (Scrum) integradas a assistentes de IA personalizados (Gems) para aceleração de sprints.
-
-⚡ Diferenciais Críticos
-Não busco apenas escrever código, mas solucionar problemas de negócio através da tecnologia. Minha experiência inclui desde a manutenção de sistemas legados (Windows 10/11 compatibility) até a criação de identidades de marca e arquitetura de marcas autorais. Atuo com visão crítica: avalio falhas, aponto melhorias e não aceito o "padrão" sem antes otimizá-lo.
+# 🚀 Leo Molina | Software Engineer & Full Stack Developer
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/leonardo-molina-r/" target="_blank">
-        <img 
-            alt="LinkedIn profile" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Conecte--se-blue?logo=linkedin&logoColor=white&style=for-the-badge" 
-        />
-    </a>
-    <a href="https://github.com/LeorMolina?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Leormolina?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" 
-        />
-    </a>
+  <a href="https://www.linkedin.com/in/leonardo-molina-r/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:leomolinaruan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+### 👨🏻‍💻 Sobre Mim
+Depois de 14 anos unindo marketing e gestão de e-commerce, decidi focar onde o valor real é construído: na engenharia de software. Atualmente, curso Análise e Desenvolvimento de Sistemas (jun/2026), mas minha atuação é focada em resolver problemas reais de arquitetura e performance.
+
+Não sou apenas um desenvolvedor; sou um **Product Engineer**. Entendo a dor do negócio e traduzo isso em código limpo, escalável e resiliente. Seja criando pacotes open source para **Kafka** ou resgatando sistemas legados críticos, meu foco é sempre a excelência técnica.
+
+---
+
+### 📊 Estatísticas de Código
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeorMolina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeorMolina&layout=compact&theme=tokyonight&hide=html,css" />
+</div>
+
+---
+
+### 🛠️ Tech Stack & Domínio Técnico
+
+**Cérebro (Backend & Infra)**
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+**Interface (Frontend Moderno)**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+**Persistência (Database)**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias (em estudo)
+### 🛡️ Projetos Open Source & Missões Críticas
+* **[Metamorphosis](https://github.com/LeorMolina/metamorphosis):** Contribuições em ecossistema de mensageria com Apache Kafka para Laravel.
+* **[Mongolid-Laravel](https://github.com/LeorMolina/mongolid-laravel):** Abstração de dados e ODM para integração MongoDB.
+* **Resgate de Sistemas:** Especialista em migração e estabilização de ambientes legados (PHP 5.x/7.x para 8.1+).
 
-<div align="left">
-    <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-    <img align="center" alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
+---
 
-<br/>
+### ⚡ Diferenciais de Engenharia
+- **Clean Code & SOLID:** Código escrito para humanos lerem e máquinas executarem com perfeição.
+- **TDD (Test Driven Development):** Garantia de entrega com PHPUnit e testes automatizados.
+- **IA Generativa:** Uso avançado de LLMs (Gemini/Groq) para refatoração e aceleração de SDLC.
+- **Visão de Produto:** Background de 14 anos em marketing aplicado à experiência do usuário e conversão.
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeorMolina&theme=tokyonight" alt="GitHub Streak" />
+</p>
