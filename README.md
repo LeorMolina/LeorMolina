@@ -21,10 +21,13 @@
 
 ### 📊 Estatísticas de Código / Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeorMolina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeorMolina&layout=compact&theme=tokyonight&hide=html,css" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeorMolina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeorMolina&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
 
 ---
 
