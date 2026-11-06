@@ -19,11 +19,12 @@
 
 ---
 
-### 📊 Estatísticas de Código / Stats
+### 📊 Estatísticas & Métricas / Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeorMolina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeorMolina&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Commits_Total-Active-239120?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Languages-C%23_%7C_.NET_%7C_Python-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_QA_Automation-FF6C37?style=for-the-badge&logo=cypress&logoColor=white" />
 </p>
 
 ---
