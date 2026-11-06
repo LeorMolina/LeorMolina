@@ -22,11 +22,8 @@
 ### 📊 Estatísticas de Código / Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeorMolina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeorMolina&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeorMolina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeorMolina&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
 </p>
 
 ---
